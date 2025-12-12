@@ -11,7 +11,7 @@ export default function App() {
   const [activeSection, setActiveSection] = useState("about");
 
   return (
-    <div className='min-h-screen flex flex-col px-6 py-16 max-w-3x1 text-4x1 md:text-6x1 font-bond text-White'>
+    <div className="min-h-screen bg-black text-green-400 p-10">
       <header>
         <h1>Eric Lopez</h1>
           <h2>UX/UI Designer + Full-Stack Developer</h2>
